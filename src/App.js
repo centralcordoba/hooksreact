@@ -19,7 +19,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://github.com/kaleem-elahi/react-hooks-example"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
